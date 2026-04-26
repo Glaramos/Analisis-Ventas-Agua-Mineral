@@ -4,7 +4,7 @@
 
 ## 📎 Vista del dashboard
 
-*(Aquí podés agregar una imagen o GIF de tu dashboard)*
+![Dashboard de ventas](dasboard_agua.jpg)
 
 
 ## 🧾 Descripción del proyecto
