@@ -4,7 +4,7 @@
 
 ## 📎 Vista del dashboard
 
-![Dashboard de ventas](dasboard.jpg)
+![Dashboard de ventas](dasboard.png)
 
 
 ## 🧾 Descripción del proyecto
