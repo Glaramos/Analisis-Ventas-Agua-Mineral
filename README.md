@@ -7,50 +7,80 @@
 ![Dashboard de ventas](dashboard.png)
 
 
-## 🧾 Descripción del proyecto
+# 🧠 Data Storytelling – Ita Pura Agua Mineral (2025)
 
-Este proyecto presenta un dashboard interactivo desarrollado para analizar el desempeño comercial de una empresa de agua mineral durante el año 2025.
-
-El análisis integra métricas clave como facturación total, ticket promedio, margen de ganancia, volumen de ventas y segmentación por productos, canales y zonas geográficas.
-
-El objetivo es transformar datos en información útil para la toma de decisiones estratégicas.
+Análisis narrativo basado en el dashboard de ventas, facturación y comportamiento comercial.
 
 ---
 
-## 📌 Objetivos del análisis
+## 📊 La empresa **Ita Pura Agua Mineral** registra en 2025:
 
-* Analizar la evolución de la facturación a lo largo del tiempo
-* Identificar los productos con mayor participación en las ventas
-* Evaluar el rendimiento de los distintos canales de venta
-* Detectar patrones y oportunidades de mejora en la distribución geográfica
-* Proporcionar insights accionables para optimizar la rentabilidad
+- 💰 **Facturación total:** $13,11 millones  
+- 🧾 **Ticket promedio:** $6,56 mil  
+- 📦 **Unidades vendidas:** 2.558  
+- 📈 **Margen:** 50%
 
----
+### Evolución mensual
+La facturación muestra variaciones importantes:
 
-## 📊 Principales insights 🔍
+- 📈 Picos: agosto ($646 mil) y diciembre ($661 mil)
+- 📉 Caídas: septiembre ($438 mil)
 
-* La facturación total alcanza **$5,91 millones**, con un **margen del 45%**, indicando un negocio rentable
-* Existe una fuerte concentración en el producto **Pack 6x2L (50,26% de las ventas)**
-* La facturación presenta fluctuaciones moderadas, con un pico en agosto y un mínimo en enero
-* Los canales de venta muestran una distribución equilibrada (~25% cada uno)
+Esto indica una **demanda irregular a lo largo del año**.
 
----
-
-### 🎯 
-* La alta dependencia de un solo producto representa un riesgo comercial
-* La estacionalidad detectada permite planificar estrategias en meses de menor rendimiento
-* La diversidad de canales reduce riesgos, pero también evidencia falta de optimización en uno específico
-* Existe potencial para mejorar el ticket promedio y la rentabilidad
+### Productos
+- 🥇 Pack 6x2L: **50,5% de las ventas**
+- 🥈 Bidón 20L: 23,5%
+- 🥉 Bidón 12L: 17,6%
+- ⚪ Botella 2L: 8,3%
 
 ---
 
-### 🚀 ¿Qué acciones se recomiendan?
+## 🔍Posible **estacionalidad del consumo de agua**
+- El Pack 6x2L podría ser el más accesible o más promocionado
+- Distribución de canales bastante equilibrada:
+  - Local
+  - Online
+  - WhatsApp
+  - Teléfono
 
-* Diversificar las ventas impulsando productos con menor participación
-* Implementar estrategias comerciales en meses de baja demanda
-* Analizar y optimizar el canal de ventas más eficiente
-* Aplicar estrategias de venta cruzada para aumentar el ticket promedio
-* Desarrollar acciones específicas por zona geográfica
+No hay un canal dominante, lo que indica **estrategia multicanal estable pero no optimizada**.
+
+---
+
+## ⚠️ Alta **dependencia del Pack 6x2L** (>50% del negocio)
+- Riesgo ante caída de un solo producto
+- Variabilidad mensual afecta la **previsibilidad del negocio**
+- Posible dificultad para planificación de stock e ingresos
+
+---
+
+## 💡 Negocio con **buen volumen y rentabilidad**
+- Pero con **concentración de ingresos en pocos productos**
+- Canales equilibrados, sin liderazgo claro
+- Posible presencia de **patrones estacionales**
+
+---
+
+## 🚀 ¿Qué se debería hacer?
+
+- Diversificar el portafolio de productos
+- Analizar qué impulsó los meses pico (agosto y diciembre)
+- Replicar estrategias exitosas en meses bajos
+- Optimizar canales con mayor potencial de crecimiento
+- Explorar estrategias por zona y segmento de cliente
+
+---
+
+## 📌 Conclusión
+
+El negocio presenta un desempeño sólido, pero con oportunidades claras de mejora en:
+
+- Diversificación de productos  
+- Estabilización de ingresos mensuales  
+- Optimización comercial por canal y zona  
+
+El principal desafío es **reducir la dependencia del producto estrella sin perder volumen de ventas**.
 
 ---
 
@@ -59,22 +89,7 @@ El objetivo es transformar datos en información útil para la toma de decisione
 * **Power BI** – Visualización y construcción del dashboard
 * **Excel / SQL** – Procesamiento y limpieza de datos
 * **Python** – Análisis exploratorio
-
----
-
-## 📈 Métricas destacadas
-
-* 💰 Facturación total: $5,91 millones
-* 🧾 Ticket promedio: $7,21 mil
-* 📦 Cantidad de unidades: 2321
-* 📊 Margen: 45%
-
----
-
-## 💡 Conclusión
-
-El dashboard permite comprender el comportamiento de ventas y detectar oportunidades clave para mejorar la estrategia comercial. A través de este análisis, se identifican acciones concretas orientadas a optimizar la rentabilidad y reducir riesgos en la operación.
-
+  
 ---
 
 ## 👩‍💻 Autor
